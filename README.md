@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taf-byte
 - 👀 I’m interested in ... coding and Data science
-- 🌱 I’m currently learning ... python and data science
+- 🌱 I’m currently learning ... python, data science and power BI
 - 💞️ I’m looking to collaborate on ... learning data science
 - 📫 How to reach me ... khalidbalatafida@gmail.com
 - 😄 Pronouns: ... He
